@@ -57,4 +57,4 @@ If Framova ever changes how it handles data, this policy will be updated and the
 
 ## Contact
 
-If you have questions about this policy, contact: **[your contact email]**
+If you have questions about this policy, contact: **[dylan.sola@icloud.com](mailto:dylan.sola@icloud.com)**
